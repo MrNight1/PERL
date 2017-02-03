@@ -1,4 +1,8 @@
 #!perl
+
+#Anota Olmos Oscar David
+#Practica 1 - Numeros Pares
+
 use warnings;
 use strict;
 
